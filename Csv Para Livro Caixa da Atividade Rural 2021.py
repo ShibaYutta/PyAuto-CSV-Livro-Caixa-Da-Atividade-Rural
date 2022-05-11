@@ -1,3 +1,7 @@
+# CSV DEVE SER - DATA;CONTA;HISTÓRICO;VALOR - NESTA ORDEM
+# DATA DEVE SER NO MODELO DD/MM/AAAA
+# CONTA DEVE SER APENAS NUMEROS
+
 import pyautogui
 import csv
 from tkinter import Tk
