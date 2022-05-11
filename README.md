@@ -3,6 +3,9 @@ Um simples script python feito para automatizar a inserção de dados da escritu
 
 ### MODELO DO CSV
 CSV DEVE SER - DATA;CONTA;HISTÓRICO;VALOR - NESTA ORDEM
+
 DATA DEVE SER NO MODELO DD/MM/AAAA
+
 CONTA DEVE SER APENAS NUMEROS
+
 A 1 LINHA (CABEÇALHO) SERÁ IGUINORADA 
